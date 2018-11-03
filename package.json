@@ -1,0 +1,19 @@
+{
+  "name": "downshift-vue",
+  "version": "1.0.0-alpha.0",
+  "description": "React downshift like component for VueJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bietkul/downshift-vue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bietkul/downshift-vue/issues"
+  },
+  "homepage": "https://github.com/bietkul/downshift-vue#readme"
+}
